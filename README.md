@@ -7,8 +7,6 @@
 ![Django](https://img.shields.io/badge/django-framework-green?style=for-the-badge&logo=django)
 ![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
 
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
-
 ---
 
 ## 📋 Table of Contents
@@ -18,10 +16,6 @@
 * [Demo Credentials](#login-details)
 * [Technology Stack](#-technology-stack)
 * [Installation](#-installation)
-* [Screenshots](#-screenshots)
-* [Roadmap](#-roadmap)
-* [Contributing](#-contributing)
-* [Support](#-support)
 
 ---
 
