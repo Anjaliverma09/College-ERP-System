@@ -161,52 +161,6 @@ Open in browser:
 
 http://127.0.0.1:8000/
 
-
-Gemini said
-Here is the clean, exact Markdown code for your README.md file based on your screenshots:
-
-Markdown
-# 🎓 College ERP System
-
-### Enterprise Resource Planning Solution for Educational Institutions
-
-![GitHub stars](https://img.shields.io/github/stars/Anjaliverma09/College-ERP-System?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/django-framework-green?style=for-the-badge&logo=django)
-![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
-
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
-
----
-
-## 📋 Table of Contents
-
-* [About](#-about)
-* [Features](#-features)
-* [Demo Credentials](#login-details)
-* [Technology Stack](#-technology-stack)
-* [Installation](#-installation-and-setup--prerequisites)
-* [Screenshots](#-screenshots)
-* [Roadmap](#-roadmap)
-* [Contributing](#-contributing)
-* [Support](#-contact--support)
-
----
-
-## 🎯 About
-
-**College ERP** is a comprehensive Enterprise Resource Planning system designed specifically for educational institutions. Built with Python and Django, this full-stack web application streamlines administrative tasks, student management, and staff operations in one unified platform.
-
----
-
-## ⚙️ Installation and Setup 📌 Prerequisites
-
-Install the following:
-
-* 🐍 **Python**
-* 📦 **Pip**
-* 🔧 **Git**
-
 ---
 
 ## 📞 Contact Info
