@@ -15,7 +15,7 @@
 * [Features](#-features)
 * [Demo Credentials](#login-details)
 * [Technology Stack](#-technology-stack)
-* [Installation](#️-installation-and-setup--prerequisites))
+* [Installation](#️-installation-and-setup--prerequisites)
 
 ---
 
