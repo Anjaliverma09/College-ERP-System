@@ -207,18 +207,12 @@ Install the following:
 * 📦 **Pip**
 * 🔧 **Git**
 
-## Step-by-Step Setup
-
-### 1️⃣ Clone the Repository
-
 ---
 
-📞 Contact & Support
-Having issues? Need help?
-📧 Email: anjaliiverma09@gmail.com
+## 📞 Contact Info
 
-🐙 GitHub: Anjaliverma09
+📧 **Email:** anjaliiverma09@gmail.com  
 
-💼 LinkedIn: anjali-verma09
+💼 **LinkedIn:** https://www.linkedin.com/in/anjali-verma09  
 
-🐛 Issues: GitHub Issues
+💻 **GitHub:** https://github.com/Anjaliverma09
