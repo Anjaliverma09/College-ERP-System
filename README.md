@@ -121,84 +121,80 @@ Install the following:
 
 🔧 Git
 
-🛠 Installation Steps
-1️⃣ Create Project Folder
+## Step-by-Step Setup
 
-Create a folder where you want to store the project.
+### 1️⃣ Clone the Repository
 
-2️⃣ Create Virtual Environment
+git clone https://github.com/Anjaliverma09/College-ERP-System.git
 
-Install virtualenv
+cd College-ERP-System
 
-pip install virtualenv
 
-Create environment
+---
 
-Windows
+### 2️⃣ Create Virtual Environment
+
+#### Option A: Using Conda (Recommended)
+
+
+conda env create -f college-erp.yml
+conda activate Django-env
+
+
+#### Option B: Using venv
+
+▶ **Windows**
+
 
 python -m venv venv
-
-Mac / Linux
-
-python3 -m venv venv
-
-Activate environment
-
-Windows
-
 venv\Scripts\activate
 
-Mac / Linux
 
+▶ **macOS**
+python3 -m venv venv
 source venv/bin/activate
-3️⃣ Install Dependencies
+
+
+▶ **Linux**
+
+
+python3 -m venv venv
+source venv/bin/activate
+
+
+---
+
+### 3️⃣ Install Dependencies
+
+
 pip install -r requirements.txt
-4️⃣ Run Database Migrations
+
+
+---
+
+### 4️⃣ Run Database Migrations
+
+
 python manage.py migrate
-5️⃣ Create Superuser
+
+
+---
+
+### 5️⃣ Create Superuser
+
+
 python manage.py createsuperuser
-6️⃣ Run Development Server
+
+
+---
+
+### 6️⃣ Run the Development Server
+
+
 python manage.py runserver
 
-Open browser
+
+Open in browser:
+
 
 http://127.0.0.1:8000/
-🧩 Main Modules
-
-🔐 Authentication System
-
-👨‍💼 Admin Dashboard
-
-👨‍🏫 Staff Dashboard
-
-🎓 Student Dashboard
-
-📊 Attendance Management
-
-📝 Result Management
-
-🏖 Leave Management
-
-💬 Feedback System
-
-👤 Profile Management
-
-🛠 Technologies Used
-Backend
-
-🐍 Python
-🌐 Django
-
-Frontend
-
-🎨 HTML
-🎨 CSS
-⚡ JavaScript
-🎯 Bootstrap
-📊 Chart.js
-📦 jQuery
-
-Database
-
-🗄 SQLite
-🗄 MySQL (optional)
